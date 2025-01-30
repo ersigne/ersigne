@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">ersignee</h1>
+<h1 align="center">Riccardo</h1>
 
 <p align="center">
   <a href="https://github.com/ersignee">
