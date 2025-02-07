@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,nodejs,java,c++" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=py,c,nodejs,java,cpp" alt="Skills"/>
 </p>
 
 <br>
