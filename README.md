@@ -3,14 +3,14 @@
 <h1 align="center">Riccardo</h1>
 
 <p align="center">
-  <a href="https://github.com/ersignee">
-    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=ersignee&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <a href="https://github.com/ersigne">
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=ersigne&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/ersignee?tab=followers">
-    <img height="25" src="https://img.shields.io/github/followers/ersignee?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <a href="https://github.com/ersigne?tab=followers">
+    <img height="25" src="https://img.shields.io/github/followers/ersigne?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   </a>
-  <a href="https://github.com/ersignee?tab=stars">
-    <img height="25" src="https://img.shields.io/github/stars/ersignee?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+  <a href="https://github.com/ersigne?tab=stars">
+    <img height="25" src="https://img.shields.io/github/stars/ersigne?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
   </a>
 </p>
 
