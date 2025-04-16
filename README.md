@@ -23,8 +23,8 @@
 <br>
 
 <p align="center">
-  <a href="https://t.me/ersigne" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://buymeacoffee.com/ersigne" target="_blank">
+    <img alt="Buy Me A Coffe" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black&logoSize=auto">
   </a>
 </p>
 
